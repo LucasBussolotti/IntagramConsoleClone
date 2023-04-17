@@ -1,0 +1,17 @@
+{
+    "name": "lfb-9/instagramclone",
+    "autoload": {
+        "psr-4": {
+            "Lfb9\\Instagramclone\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Bussolotti",
+            "email": "lucasfbussolotti@gmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "^1.6"
+    }
+}
